@@ -6,4 +6,5 @@ This repository consists of verilog projects. Collection of projects done during
 - Ultrasonic based distance measurement
 - DHT11 sensor measurement
 - Linear Feedback Shift Register
+- Wallace Tree multiplier
   
